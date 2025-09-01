@@ -1,4 +1,4 @@
-# f1-sql-baza-danych (PostgreSQL)
+# Projekt SQL (PostgreSQL) – Baza danych F1
 
 ## Opis
 Projekt przygotowałem w ramach nauki i testowania SQL.
