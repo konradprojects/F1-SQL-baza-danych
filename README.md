@@ -1,4 +1,4 @@
-# F1-SQL-baza-danych (PostgreSQL)
+# F1-sql-baza-danych (PostgreSQL)
 
 ## Opis
 Projekt przygotowałem w ramach nauki i testowania SQL.
